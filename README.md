@@ -1,4 +1,4 @@
-Sistemin İşleyişi
+### Sistemin İşleyişi
 
 Proje, Mama kaplarının akıllı bir hale getirilmesi amaçlanarak tasarlanmıştır. Bunun için
 mesafe sensörü, ağırlık sensörü ve bu ağırlık sensörü verilerine bağlı olarak çalışan bir servo
